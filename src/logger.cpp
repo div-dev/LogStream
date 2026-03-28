@@ -56,4 +56,3 @@ void Logger::efficientLog(size_t address, uint8_t value) {
     }
 }
     
-
